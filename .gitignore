@@ -1,0 +1,22 @@
+# Ignore raw data (you mentioned no raw data will be included)
+data/raw/
+
+# Ignore backup or processed data
+data/backups/
+data/processed/
+
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore environment settings (credentials, etc.)
+.env
+environment/.env
+
+# Ignore Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+.DS_Store
