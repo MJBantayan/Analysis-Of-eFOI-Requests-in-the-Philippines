@@ -1,0 +1,35 @@
+FOI Requests
+
+What is in an FOI Request:
+
+	Tracking number
+	Requester name
+	Requested from agency
+	Reffered to Agency
+	Request title
+	Request body
+	Requested from agency response
+	classification of response (approval, denial, refferal)
+	Requester response 
+	Requested from agency response
+	Refferal Agency Response
+	Requester response
+	Refferal agency final response
+	
+Dates involved in FOI requests:
+	Date & time of Submission
+	Date & time of Processing
+	Date & time of Fulfillment
+	
+Status of FOI requests:
+	Processing
+	Succesful
+	Partially Successful
+	Reffered
+	Denied
+	Others
+	
+Rating of FOI request
+
+
+
