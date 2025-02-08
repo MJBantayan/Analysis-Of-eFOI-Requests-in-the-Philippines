@@ -1,4 +1,4 @@
-# Ignore raw data (you mentioned no raw data will be included)
+# Ignore raw data
 data/raw/
 
 # Ignore backup or processed data
